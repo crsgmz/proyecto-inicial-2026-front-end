@@ -1,9 +1,5 @@
 html {
-    box-sizing: border-box;
     font-size: 62.5%;
-}
-*, *:before, *:after {
-    box-sizing: inherit;
 }
 
 body{
@@ -40,7 +36,6 @@ h2 {
     background-color: red;
     padding: 2rem 0; /* padding arriba abajo - izquierda derecha */
     /* padding arriba derecha abajo izquierda */
-    box-sizing
 }
 
 .blue {
