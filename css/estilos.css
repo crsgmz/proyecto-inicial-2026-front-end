@@ -1,0 +1,56 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body{
+    font-size: 1.6rem;
+}
+h1 {
+    color: blue;
+    font-size: 4rem; /* 4rem = 40px */
+}
+
+h2 {
+    color: purple;
+
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.mis-datos {
+    background-color: #9C5E28;
+}
+
+.mis-datos h2{
+    color: #9C2885;
+}
+
+.box {
+    height: 10rem;
+    width: 10rem;
+}
+
+.red {
+    background-color: red;
+    padding: 2rem 0; /* padding arriba abajo - izquierda derecha */
+    /* padding arriba derecha abajo izquierda */
+    box-sizing
+}
+
+.blue {
+    background-color: blue;
+    margin-top: 2rem;
+}
+
+.border {
+    border: solid;
+    border-style: dotted;
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
